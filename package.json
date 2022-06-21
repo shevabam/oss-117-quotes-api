@@ -1,0 +1,30 @@
+{
+  "name": "oss-117-quotes-api",
+  "version": "1.0.0",
+  "description": "An API for retrieving some OSS 117 quotes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shevabam/oss-117-quotes-api"
+  },
+  "keywords": [
+    "oss",
+    "117",
+    "oss117",
+    "piquette",
+    "quotes",
+    "api",
+    "movie"
+  ],
+  "author": "ShevAbam",
+  "bugs": {
+    "url": "https://github.com/shevabam/oss-117-quotes-api/issues"
+  },
+  "homepage": "https://oss117quotes.xyz/",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
