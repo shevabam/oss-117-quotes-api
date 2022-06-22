@@ -13,16 +13,25 @@
       "name": "Von Zimmel"
     },
     "moeller": {
-      "name": "Gerhard Moeller"
+      "name": "Gerhard Moëller"
     },
     "bill": {
-      "name": "Bill Tremendous"
+      "name": "Bill Trumendous"
     },
     "raymond": {
       "name": "Raymond Pelletier"
     },
     "dolores": {
-      "name": "Dolorès"
+      "name": "Dolorès Koulechov"
+    },
+    "armand": {
+      "name": "Armand Lesignac"
+    },
+    "chinois": {
+      "name": "Le Chinois"
+    },
+    "loktar": {
+      "name": "Loktar"
     }
   },
   "quotes": [
@@ -64,6 +73,14 @@
     },
     {
       "character": "hubert",
+      "sentence": "Ah oui c'est... c'est cocasse."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Mais, ça cuit pas cette connerie là. Mais pourquoi ça cuit pas ?"
+    },
+    {
+      "character": "hubert",
       "sentence": "Comment est votre blanquette ?"
     },
     {
@@ -92,7 +109,15 @@
     },
     {
       "character": "hubert",
+      "sentence": "D'aucuns ont des aventures... Je suis une aventure."
+    },
+    {
+      "character": "hubert",
       "sentence": "J'aime quand une jolie femme brune m'apporte mon petit déjeuner au lit."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Je n'ai jamais pu refuser quoi que ce soit d'une brune aux yeux marrons."
     },
     {
       "character": "hubert",
@@ -156,11 +181,19 @@
     },
     {
       "character": "hubert",
+      "sentence": "J'écoute"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Eh bien non, je m'en moque comme d'une guigne"
+    },
+    {
+      "character": "hubert",
       "sentence": "J'ai été réveillé par un homme qui hurlait à la mort du haut de cette tour ! J'ai dû le faire taire."
     },
     {
       "character": "hubert",
-      "sentence": "Vous avez bien une amicale des anciens nazis ? Un club ? Une association peut-être ?"
+      "sentence": "Vous avez bien une amicale des anciens nazis ? Un club ? Une association ? Un mémorial nazis peut-être ?"
     },
     {
       "character": "hubert",
@@ -173,6 +206,10 @@
     {
       "character": "hubert",
       "sentence": "J'aime quand on m'enduit d'huile."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Moi j'vous dis ça, c'est en tout amitié hein"
     },
     {
       "character": "hubert",
@@ -192,6 +229,10 @@
     },
     {
       "character": "hubert",
+      "sentence": "C'est quand même bien mieux une voiture propre, non"
+    },
+    {
+      "character": "hubert",
       "sentence": "Ah mais l'un n'empêche pas l'autre. J'ai toujours fait les deux et jusqu'à présent, je n'ai jamais reçu aucune plainte !"
     },
     {
@@ -201,6 +242,14 @@
     {
       "character": "larmina",
       "sentence": "Non, il jouait au jokari avec un ami, l'élastique s'est distendu, la balle est partie... il l'a suivie emporté par les flots..."
+    },
+    {
+      "character": "larmina",
+      "sentence": "Je préfererai forniquer avec un porc un vendredi de ramadan"
+    },
+    {
+      "character": "larmina",
+      "sentence": "Ce sera surtout l'occasion de rencontrer le gratin Cairote"
     },
     {
       "character": "hubert",
@@ -213,6 +262,10 @@
     {
       "character": "hubert",
       "sentence": "Non mais oh ! Comment tu parles de ton père ?! T'as pas honte ? Qui c'est qui ta nourrit ? Jamais moi je parlerai comme ça de mon père, jamais ! Moi mon père il était charon et j'peux te dire que ça filait doux. Ca, la mère de La Bath elle moufetait pas. Et les gamins pareil !"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Non mais oh ! Comment tu parles de ton père ?! T'as pas honte ?"
     },
     {
       "character": "hubert",
@@ -232,7 +285,31 @@
     },
     {
       "character": "hubert",
+      "sentence": "Dis donc, on dit humour juif humour juif, ça n'a pas l'air très rigolo votre humour"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Mais il va la fermer sa gueule !!"
+    },
+    {
+      "character": "hubert",
       "sentence": "Ma foi, comme un lundi, frais dans la matinée, soleil dans l'après midi, la recette des sports d'hiver réussis !"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Changer le monde, changer le monde... Vous êtes bien sympathique mais faudrait déjà vous lever le matin."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Chargé / Déchargé"
+    },
+    {
+      "character": "hubert",
+      "sentence": "N'allez pas croire que je n'ai pas confiance par rapport à ce qu'on dit sur les... juifs et l'argent, ça n'a rien à voir."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Puis vous savez de vous à moi, c'est peut-être ça aussi qui agace un petit peu les gens. Le côté je suis juif, donc j'ai raison sur tout."
     },
     {
       "character": "hubert",
@@ -248,11 +325,31 @@
     },
     {
       "character": "hubert",
+      "sentence": "Oh bon Dieu. Vivre dans l'urine, c'est affligeant."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Qu'est-ce que c'est que ce guet-apens"
+    },
+    {
+      "character": "hubert",
       "sentence": "Je n'y suis pour rien. C'est l'inexpugnable arrogance de votre beauté qui m'asperge."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Mais quelle est cette curieuse odeur ?"
+    },
+    {
+      "character": "hubert",
+      "sentence": "On a frolé la catastrophe"
     },
     {
       "character": "bill",
       "sentence": "Shut up ! Kiss my ass !"
+    },
+    {
+      "character": "bill",
+      "sentence": "Hello m*therf*cker !"
     },
     {
       "character": "raymond",
@@ -267,8 +364,28 @@
       "sentence": "Ne pas fumer me tue."
     },
     {
+      "character": "hubert",
+      "sentence": "Les bananes flambées... avant qu'elles soient flambées, les bananes quoi"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Tiens, un chauve... Chauve qui peut"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Choux blanc donc"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Cigarette ? Oui merci, j'essaye de commencer."
+    },
+    {
       "character": "moeller",
       "sentence": "J'ai décidé d'appeler cela.... des enregistroscopes ! Le temps que les écrans chauffent..."
+    },
+    {
+      "character": "moeller",
+      "sentence": "Lui qui tripote si bien les kikis"
     },
     {
       "character": "dolores",
@@ -277,6 +394,10 @@
     {
       "character": "hubert",
       "sentence": "Des millions ?! Haha, des millions ! Vous êtes charmante mais vous voyez déjà ce que ça fait un million Larmina ?"
+    },
+    {
+      "character": "hubert",
+      "sentence": "C'est pas le monde qui va se plier à vos désirs les enfants. C'est pas 68 aller la jeunesse."
     },
     {
       "character": "hubert",
@@ -305,6 +426,114 @@
     {
       "character": "hubert",
       "sentence": "C'est pas moi. J'ai vu, je sais qui c'est, mais je dirai rien."
+    },
+    {
+      "character": "hubert",
+      "sentence": "D'accord, faisons comme ça, ravis de t'avoir revu l'ami !"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Ne perdons pas de temps avec ces bêtises."
+    },
+    {
+      "character": "hubert",
+      "sentence": "On ne devrait jamais faire confiance à une femme d'ailleurs."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Moi aussi je vais enfiler quelque chose de confortable..."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Ils sont récalcitrant ces faces de quetsch."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Attention Bill derrière toi, un Chinois."
+    },
+    {
+      "character": "armand",
+      "sentence": "Pour rencontrer M. Lee, faut mieux une bonne couverture !"
+    },
+    {
+      "character": "bill",
+      "sentence": "Comme tu voudras my a*s licking c*ck s*ck*r m*therf*ck**g son of a b**ch"
+    },
+    {
+      "character": "bill",
+      "sentence": "You stupid son of a b**ch"
+    },
+    {
+      "character": "bill",
+      "sentence": "Raccourcissez-moi cette jupe, vous me donnez chaud"
+    },
+    {
+      "character": "chinois",
+      "sentence": "Tu as tué mon frère !"
+    },
+    {
+      "character": "chinois",
+      "sentence": "Tu vas mourir !"
+    },
+    {
+      "character": "chinois",
+      "sentence": "Tu es raciste !"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Un philisophe a dit un jour, le mystère des pyramides, c'est le mystère de la conscience dans laquelle on n'entre pas."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Mais c'est le cycle même de la vie. Lorsqu'un quelqu'un ou quelque chose meurt, quelqu'un ou quelque chose nait ailleurs."
+    },
+    {
+      "character": "hubert",
+      "sentence": "L'aveugle ne voit pas, il ressent. Et paradoxalement, il voit."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Quand une femme change d'homme, elle change de coiffure."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Je répète ma question : où est Heinrich Von Zimmel et pose ce transistor."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Ca alors... Heinrich, un postiche ?"
+    },
+    {
+      "character": "hubert",
+      "sentence": "OSS 117, pour vous servir."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Ah oui, quelle histoire ça aussi."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Vous faites des quiches un peu ici ?"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Robustes, les têtes de prune"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Vous étiez belle cet après-midi, vous êtes très belle ce soir, j'attends demain avec impatience."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Si tous les hommes avaient des formes aussi prodigieuses que les vôtres, je virai sûrement ma cuti."
+    },
+    {
+      "character": "hubert",
+      "sentence": "C'est le vrai monde dehors. Et le vrai monde, il va chez le coiffeur, déjà."
+    },
+    {
+      "character": "loktar",
+      "sentence": "Et toi tu es quoi toi ? Hein, toi qu'est-ce tu es toi ? Nardinamouk"
     }
   ]
 }
