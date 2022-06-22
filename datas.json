@@ -28,6 +28,10 @@
   "quotes": [
     {
       "character": "hubert",
+      "sentence": "Le problème avec l'arabe, c'est que ce n'est pas facilement lisible. Même au niveau du son... Oui mais enfin, c'est joli, hein, c'est joli quand même."
+    },
+    {
+      "character": "hubert",
       "sentence": "Je ne vois pas trop l'intérêt de ressembler à une femme."
     },
     {
@@ -131,12 +135,16 @@
       "sentence": "Bla bla bla bla bla... C'est marrant, c'est toujours les nazis qui ont toujours le mauvais rôle... Nous sommes en 1955, Herr Bramard ! On peut avoir une deuxième chance ?! Merci..."
     },
     {
+      "character": "moeller",
+      "sentence": "Oh scheisse"
+    },
+    {
       "character": "hubert",
       "sentence": "Pour rencontrer M. Li, il vaut mieux avoir une bonne couverture, sinon, je serai dans de beaux draps."
     },
     {
       "character": "hubert",
-      "sentence": "Pourchasser un nazi avec des juifs ? Quelle drôle d'idée !"
+      "sentence": "Rechercher un nazi avec des juifs ? Quelle drôle d'idée !"
     },
     {
       "character": "hubert",
@@ -153,6 +161,10 @@
     {
       "character": "hubert",
       "sentence": "Vous avez bien une amicale des anciens nazis ? Un club ? Une association peut-être ?"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Oui... je connais cette théorie."
     },
     {
       "character": "hubert",
@@ -179,12 +191,32 @@
       "sentence": "Jolie voiture ! Dommage qu'elle soit si sale !"
     },
     {
+      "character": "hubert",
+      "sentence": "Ah mais l'un n'empêche pas l'autre. J'ai toujours fait les deux et jusqu'à présent, je n'ai jamais reçu aucune plainte !"
+    },
+    {
+      "character": "bill",
+      "sentence": "Sacré Hubert, you are so french."
+    },
+    {
       "character": "larmina",
       "sentence": "Non, il jouait au jokari avec un ami, l'élastique s'est distendu, la balle est partie... il l'a suivie emporté par les flots..."
     },
     {
       "character": "hubert",
       "sentence": "Pas le moins du monde, il aura fait une erreur sur la personne voilà tout... N'oublions pas que de son point de vue nous nous ressemblons tous !"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Vous savez les hommes sont rarement des... des... mères de famille."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Non mais oh ! Comment tu parles de ton père ?! T'as pas honte ? Qui c'est qui ta nourrit ? Jamais moi je parlerai comme ça de mon père, jamais ! Moi mon père il était charon et j'peux te dire que ça filait doux. Ca, la mère de La Bathe elle moufetait pas. Et les gamins pareil !"
+    },
+    {
+      "character": "hubert",
+      "sentence": "J'aime ce qui s'passe. Mais on est d'accord, c'est notre secret, ça reste entre nous hein... Oui non parce que, les gens sont pas obligé de savoir tout ça, j'veux dire que sorti de son contexte, un doigt dans les fesses ça peut être euuuh..."
     },
     {
       "character": "hubert",
@@ -257,6 +289,18 @@
     {
       "character": "hubert",
       "sentence": "Ça me sert à rien. Sauf si je dois compter jusqu'à 5. Et là en revanche, ça pourrait me servir. Il ne faut pas que je dépasse 5, car je ne connais pas 6. Je suis battu."
+    },
+    {
+      "character": "hubert",
+      "sentence": "Ca va oui, sauf que l'avion perd de l'altitude, on fonce sur les arbres et je n'aurai pas le temps de sortir les trains d'atterissage. Ce qui va, c'est que je suis là"
+    },
+    {
+      "character": "hubert",
+      "sentence": "Attendez attendez, c'est lesquels les chinois qui étaient alliés aux nazis ? Les japonais, c'est ça, autant pour moi. J'avais un embryon de piste mais non, si nous avons affaire à des chinois de Chine, ça ne marche plus."
+    },
+    {
+      "character": "hubert",
+      "sentence": "C'est pas moi. J'ai vu, je sais qui c'est, mais je dirai rien."
     }
   ]
 }
