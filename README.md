@@ -1,13 +1,13 @@
 
 ![](oss-177-quotes-api_header.png)
 
-# OSS 117 quotes API
+# OSS 117 Quotes API
 
-A simple API to retrieve some quotes of the famous OSS 117!
+Une API de répliques d'OSS 117 ? Habile !
 
-:globe_with_meridians: Website and demo: https://oss117quotes.xyz/
+:globe_with_meridians: Site et démo : https://oss117quotes.xyz/
 
-## Production host
+## URL de l'API
 
 [https://api.oss117quotes.xyz](https://api.oss117quotes.xyz)
 
@@ -15,7 +15,7 @@ A simple API to retrieve some quotes of the famous OSS 117!
 
 ### `GET /v1/random`
 
-Get a random quote:
+Obtenir une citation au hasard :
 
 > [https://api.oss117quotes.xyz/v1/random](https://api.oss117quotes.xyz/v1/random)
 
@@ -30,8 +30,8 @@ Get a random quote:
 
 ### `GET /v1/random/{number}`
 
-Returns `{number}` quotes.  
-`number` parameter is optional. By default, one quote is returned.
+Retourne `{number}` citations de manière aléatoire.  
+Le paramètre `number` est facultatif. Par défaut, une seule citation est retournée.
 
 > [https://api.oss117quotes.xyz/v1/random/3](https://api.oss117quotes.xyz/v1/random/3)
 
@@ -62,8 +62,10 @@ Returns `{number}` quotes.
 
 ### `GET /v1/author/{character}/{number}`
 
-Returns quotes for a character *(how to find this information explained below)*.  
-`number` parameter is optional. By default, all quotes from the character are returned.
+Retourne les citations d'un personnage.  
+Plus d'informations sur le paramètre `character` plus bas.
+
+Le paramètre `number` est facultatif. Par défaut, toutes les citations du personnage sont retournées.
 
 > [https://api.oss117quotes.xyz/v1/author/hubert/2](https://api.oss117quotes.xyz/v1/author/hubert/2)
 
@@ -87,7 +89,7 @@ Returns quotes for a character *(how to find this information explained below)*.
 
 ### `GET /v1/characters`
 
-Returns the list of characters with their quotes.
+Retourne la liste des personnages avec leurs citations.
 
 > [https://api.oss117quotes.xyz/v1/characters](https://api.oss117quotes.xyz/v1/characters)
 
@@ -113,8 +115,8 @@ Returns the list of characters with their quotes.
 
 ### `GET /v1/character/{name}`
 
-Returns the character's details.  
-`name` parameter is the character's diminutive *(how to find this information explained below)*.
+Retourne le détail d'un personnage.  
+Le paramètre `name` est le diminutif du personnage (voir plus bas pour plus d'information).
 
 > [https://api.oss117quotes.xyz/v1/character/hubert](https://api.oss117quotes.xyz/v1/character/hubert)
 
@@ -132,12 +134,10 @@ Returns the character's details.
 
 
 
-### How to find the diminutives of the characters?
+### Comment trouver le diminutif d'un personnage ?
 
-The diminutives of characters are present in the "slug" entry in the results.  
-You can also find them in the `datas.json` file.
-
-For characters:
+Le diminutif d'un personnage est présent dans l'entrée "slug".  
+Vous pouvez aussi les retrouver dans le fichier `datas.json` :
 
     "characters": {
         "hubert": {
@@ -167,24 +167,24 @@ For characters:
         ...
     },
 
-The diminutives are: hubert, carlotta, larmina, etc...
+Les diminutifs sont donc : hubert, carlotta, larmina, etc...
 
 
 ## Docker
 
-You can find the Dockerfile [here](https://github.com/shevabam/dockerfiles/tree/master/oss-117-quotes-api) and on [Docker Hub](https://hub.docker.com/r/shevabam/oss-117-quotes-api/).
+Vous pouvez trouver le Dockerfile [ici](https://github.com/shevabam/dockerfiles/tree/master/oss-117-quotes-api) et sur [Docker Hub](https://hub.docker.com/r/shevabam/oss-117-quotes-api/).
 
 
-## Contributing
+## Contribuer
 
-If you want to add some quotes, please follow these steps. Make sure you have Git installed on your local computer.
+Si vous souhaitez ajouter une ou plusieurs citations, suivez les étapes suivantes.
 
-* Fork the projet by clicking on the "Fork" button on the top right corner of this page
-* Git clone your fork
-* Open the file `datas.json`
-* Make sure the quote doesn't already exist!
-* Edit the sections. Make sure the character exists.
-* Commit and push your changes
-* Submit a pull request
+* Fork le projet en cliquant sur le bouton "Fork" en haut à droite de cette page
+* Cloner le dépôt (git clone) sur votre machine
+* Ouvrir le fichier `datas.json`
+* S'assurer que la citation n'existe pas déjà
+* S'assurer que le personnage existe bien dans la partie "characters"
+* Commit et push les modifications
+* Faire un pull request
 
-Thanks!
+Merci !
