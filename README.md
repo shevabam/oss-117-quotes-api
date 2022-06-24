@@ -1,5 +1,5 @@
 
-![](oss-177-quotes-api_header.png)
+![](oss-117-quotes-api_header.png)
 
 # OSS 117 Quotes API
 
@@ -9,7 +9,7 @@ Une API de répliques d'OSS 117 ? Habile !
 
 ## URL de l'API
 
-[https://api.oss117quotes.xyz](https://api.oss117quotes.xyz)
+➡ [https://api.oss117quotes.xyz](https://api.oss117quotes.xyz)
 
 ## API
 
