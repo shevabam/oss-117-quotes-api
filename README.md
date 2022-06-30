@@ -170,6 +170,11 @@ Vous pouvez aussi les retrouver dans le fichier `datas.json` :
 Les diminutifs sont donc : hubert, carlotta, larmina, etc...
 
 
+## Postman
+
+Vous pouvez intégrer l'API dans Postman grâce à la [collection Postman](OSS_117_Quotes_API.postman_collection.json) disponible sur le dépôt.
+
+
 ## Docker
 
 Vous pouvez trouver le Dockerfile [ici](https://github.com/shevabam/dockerfiles/tree/master/oss-117-quotes-api) et sur [Docker Hub](https://hub.docker.com/r/shevabam/oss-117-quotes-api/).

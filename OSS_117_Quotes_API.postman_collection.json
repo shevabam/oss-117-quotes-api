@@ -1,0 +1,140 @@
+{
+	"info": {
+		"_postman_id": "26040779-e7f0-424a-b0d5-b3a5a2785fb4",
+		"name": "OSS 117 Quotes API",
+		"description": "# OSS 117 Quotes API\n\nUne API de répliques d'OSS 117 ? Habile !\n\n\n🌐 Site et démo : [https://oss117quotes.xyz/](https://oss117quotes.xyz/)\n\n🧾 Dépôt Github : [https://https://github.com/shevabam/oss-117-quotes-api/](https://https://github.com/shevabam/oss-117-quotes-api/)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Citations",
+			"item": [
+				{
+					"name": "Obtenir une citation au hasard",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.oss117quotes.xyz/v1/random",
+							"protocol": "https",
+							"host": [
+								"api",
+								"oss117quotes",
+								"xyz"
+							],
+							"path": [
+								"v1",
+								"random"
+							]
+						},
+						"description": "Obtenir une citation au hasard"
+					},
+					"response": []
+				},
+				{
+					"name": "Obtenir plusieurs citations aléatoires",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.oss117quotes.xyz/v1/random/{{number}}",
+							"protocol": "https",
+							"host": [
+								"api",
+								"oss117quotes",
+								"xyz"
+							],
+							"path": [
+								"v1",
+								"random",
+								"{{number}}"
+							]
+						},
+						"description": "Retourne {number} citations de manière aléatoire.\nLe paramètre number est facultatif. Par défaut, une seule citation est retournée."
+					},
+					"response": []
+				},
+				{
+					"name": "Obtenir les citations à partir d'un personnage",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.oss117quotes.xyz/v1/author/hubert/{{number}}",
+							"protocol": "https",
+							"host": [
+								"api",
+								"oss117quotes",
+								"xyz"
+							],
+							"path": [
+								"v1",
+								"author",
+								"hubert",
+								"{{number}}"
+							]
+						},
+						"description": "Retourne les citations d'un personnage.\nPlus d'informations sur le paramètre character plus bas.\n\nLe paramètre number est facultatif. Par défaut, toutes les citations du personnage sont retournées."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Personnages",
+			"item": [
+				{
+					"name": "Liste des personnages avec toutes leurs citations",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.oss117quotes.xyz/v1/characters",
+							"protocol": "https",
+							"host": [
+								"api",
+								"oss117quotes",
+								"xyz"
+							],
+							"path": [
+								"v1",
+								"characters"
+							]
+						},
+						"description": "Retourne la liste des personnages avec leurs citations."
+					},
+					"response": []
+				},
+				{
+					"name": "Détails d'un personnage avec ses citations",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://api.oss117quotes.xyz/v1/character/bill",
+							"protocol": "https",
+							"host": [
+								"api",
+								"oss117quotes",
+								"xyz"
+							],
+							"path": [
+								"v1",
+								"character",
+								"bill"
+							]
+						},
+						"description": "Retourne le détail d'un personnage.\nLe paramètre name est le diminutif du personnage (voir plus bas pour plus d'information)."
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"variable": [
+		{
+			"key": "number",
+			"value": "5"
+		}
+	]
+}
